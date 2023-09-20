@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rocky2k17&label=Profile%20views&color=0e75b6&style=flat" alt="rocky2k17" /> </p>
 
-- 🔭 I’m currently working on **my company's project(private repo))**
+- 🔭 I’m currently working on **my company's project(private repo)**
 
 - 🌱 I’m currently working with **React & Spring Boot**
 

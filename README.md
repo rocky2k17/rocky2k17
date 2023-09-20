@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rocky</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rocky2k17&label=Profile%20views&color=0e75b6&style=flat" alt="rocky2k17" /> </p>
 
-- 🔭 I’m currently working on [my company's project](lynorg.com)
+- 🔭 I’m currently working on **my company's project(private repo))**
 
-- 🌱 I’m currently learning **React & Spring Boot**
+- 🌱 I’m currently working with **React & Spring Boot**
 
 - 📫 How to reach me **rocky.cse17kuet@gmail.com**
 

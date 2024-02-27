@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working with **React & Spring Boot**
 
-- 📫 How to reach me **rocky.cse17kuet@gmail.com**
+- 📫 How to reach me **rocky.csekuet@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hasanur-rahman-4a483b167/](https://www.linkedin.com/in/hasanur-rahman-4a483b167/)
 

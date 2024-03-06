@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rocky.csekuet@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hasanur-rahman-4a483b167/](https://www.linkedin.com/in/hasanur-rahman-4a483b167/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/hasanurrahmanrocky/](https://www.linkedin.com/in/hasanurrahmanrocky/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

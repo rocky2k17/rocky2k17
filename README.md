@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my company's project(private repo)**
 
-- 🌱 I’m currently working with **React & Spring Boot**
+- 🌱 I’m currently working with **React & Laravel**
 
 - 📫 How to reach me **rocky.csekuet@gmail.com**
 
